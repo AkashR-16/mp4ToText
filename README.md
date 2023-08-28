@@ -25,5 +25,12 @@ The process consists of the following steps:
    ```bash
    git clone https://github.com/your-username/video-speech-to-text.git
    cd video-speech-to-text
+   
+1. Run the script:
+    ```bash
+   python script.py
 
+2. Follow the prompts to provide the path to the input MP4 file.
+
+3. After the script completes, the filtered text will be displayed and saved in a file named text.txt.
 
