@@ -34,5 +34,5 @@ The process consists of the following steps:
 
 2. Follow the prompts to provide the path to the input MP4 file.
 
-3. After the script completes, the filtered text will be displayed and saved in a file named 'text.txt'.
+3. After the script completes, the filtered text will be displayed and saved in a file named `text.txt`.
 
