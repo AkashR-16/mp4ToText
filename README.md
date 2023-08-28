@@ -17,7 +17,7 @@ The process consists of the following steps:
 
 - Python 3.x
 - Install required packages: ` moviepy,SpeechRecognition, better_profanity`
-- ```bash
+ ```bash
   pip install moviepy SpeechRecognition better_profanity
 
 ### Usage
